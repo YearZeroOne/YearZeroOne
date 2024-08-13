@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Software Developer based in Vienna, Austria 🇦🇹 🇪🇺
+I'm a Software Developer based in Vienna, Austria :austria: :eu:
 <!--
 **YearZeroOne/YearZeroOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
