@@ -1,16 +1,29 @@
 ## Hi there 👋
-I'm a Software Developer based in Vienna, Austria :austria: :eu:
-<!--
-**YearZeroOne/YearZeroOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer based in Vienna, Austria :austria:  :eu:
 
-Here are some ideas to get you started:
+## 🗣️ Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🇬🇧 English 
+* 🇩🇪 German
+* 🇭🇰 Cantonese
+* 🇯🇵 Japanese
+
+## 🪄 Skills
+
+### Programming Languages
+<img src="{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
+### Frameworks
+
+### Databases
+
+### Other
+
+
